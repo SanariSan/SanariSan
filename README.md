@@ -42,6 +42,16 @@
     </tr>
     <tr>
       <td>
+        <a align="center" href="https://gist.github.com/SanariSan/0844c0cd009d76aefad456321e12b973">Shadowsocks heroku</a> deployment guide
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Control script + set of containers to rollout <a align="center" href="https://github.com/SanariSan/v2ray-ws-tls">V2Ray-tls-websocket</a> on your vps
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a align="center" href="https://github.com/SanariSan/ts-backend-v2">Backend boilerplate</a> I'm currently working on
       </td>
     </tr>
@@ -82,10 +92,10 @@
     <tr>
       <td><code>CSS</code></td>
       <td><code>SASS</code></td>
-      <td><code>Semantic UI</code></td>
+      <td><code>Bootstrap</code></td>
     </tr>
     <tr>
-      <td><code>Bootstrap</code></td>
+      <td><code>Nginx</code></td>
       <td><code>Express</code></td>
       <td><code>JWT</code></td>
     </tr>
