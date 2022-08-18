@@ -62,7 +62,7 @@
     </tr>
     <tr>
       <td>
-        <a align="center" href="https://gist.github.com/SanariSan/464be2d88f44782b022bd09cd85b9c2a">Set of bash scripts</a> I wrote and actively use to configure Ubuntu
+        <a align="center" href="https://gist.github.com/SanariSan/464be2d88f44782b022bd09cd85b9c2a">Set of bash scripts</a> I use to configure Ubuntu
       </td>
     </tr>
   </table>
