@@ -47,7 +47,7 @@
     </tr>
     <tr>
       <td>
-        Control script + set of containers to rollout <a align="center" href="https://github.com/SanariSan/v2ray-ws-tls">V2Ray-tls-websocket</a> on your vps
+        Control script + set of containers to rollout <a align="center" href="https://github.com/SanariSan/v2ray-ws-tls">V2Ray-tls-vmess-ws</a> on your vps
       </td>
     </tr>
     <tr>
