@@ -87,10 +87,10 @@
     <tr>
       <td><code>React</code></td>
       <td><code>Atom (@dbeining/react-atom)</code></td>
-      <td><code>HTML</code></td>
+      <td><code>HTML/CSS</code></td>
     </tr>
     <tr>
-      <td><code>CSS</code></td>
+      <td><code>Redux</code></td>
       <td><code>SASS</code></td>
       <td><code>Bootstrap</code></td>
     </tr>
@@ -134,24 +134,23 @@
       <td colspan="3"><b>Planned</b></td>
     </tr>
     <tr>
-      <td><code>Redux</code></td>
+      <td><code>WebPack</code></td>
       <td><code>Mobx</code></td>
       <td><code>Preact</code></td>
     </tr>
     <tr>
-      <td><code>WebPack</code></td>
+      <td><code>Tests</code></td>
       <td><code>GraphQL</code></td>
       <td><code>Passport.js</code></td>
     </tr>
     <tr>
-      <td><code>Tests</code></td>
+      <td><code>Next</code></td>
       <td><code>SSR</code></td>
       <td><code>Nest</code></td>
     </tr>
     <tr>
-      <td><code>Next</code></td>
-      <td><code>Vue</code></td>
       <td><code>BEM (pure)</code></td>
+      <td><code>Vue</code></td>
     </tr>
   </table>
 </div>
@@ -161,7 +160,7 @@
 <hr />
 <h3 align="left">Get in touch:</h3>
 
-<a href="https://t.me/rizidix" target="_blank" rel="noopener noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/telegram.svg" alt="SanariSan" height="30" width="40" /></a>
+<a href="https://t.me/N0DE_JS" target="_blank" rel="noopener noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/telegram.svg" alt="SanariSan" height="30" width="40" /></a>
 
 <hr />
 
