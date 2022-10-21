@@ -139,9 +139,9 @@
       <td><code>Preact</code></td>
     </tr>
     <tr>
-      <td><code>Tests</code></td>
+      <td><code>Message brokers</code></td>
       <td><code>GraphQL</code></td>
-      <td><code>Passport.js</code></td>
+      <td><code>Microservices</code></td>
     </tr>
     <tr>
       <td><code>Next</code></td>
@@ -149,8 +149,9 @@
       <td><code>Nest</code></td>
     </tr>
     <tr>
-      <td><code>BEM (pure)</code></td>
+      <td><code>Tests</code></td>
       <td><code>Vue</code></td>
+      <td><code>Passport.js</code></td>
     </tr>
   </table>
 </div>
