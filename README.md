@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 and welcome to my profile!</h1>
 <h3 align="center">I'm Edward, 21 y.o. Junior developer from Russia 😇</h3>
-<h6 align="center"><i>«Always writing code like if it's gonna be used by someone else, even if it's not» </i><b>*</b></h6>
+<h6 align="center"><i>«Always writing code like if it's gonna be used by someone else, even if it's not» </i></h6>
 
 <hr />
 
@@ -162,7 +162,3 @@
 <h3 align="left">Get in touch:</h3>
 
 <a href="https://t.me/N0DE_JS" target="_blank" rel="noopener noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/telegram.svg" alt="SanariSan" height="30" width="40" /></a>
-
-<hr />
-
-<h6>* Except the day before deadline, in this case...Welp, I'm sorry 😅</h6>
