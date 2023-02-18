@@ -37,12 +37,12 @@
     </tr>
     <tr>
       <td>
-        My graduation project ( cloud ) <a align="center" href="https://github.com/SanariSan/cloud-fullstack">repo</a> | <a align="center" href="https://storeton.herokuapp.com">deployed</a>
+        Full-stack cloud storage | <a align="center" href="https://storeton.nodejs.monster">👉Deployed👈</a> | <a align="center" href="https://github.com/SanariSan/cloud-fullstack">old deployment repo (heroku)</a> | <a align="center" href="https://github.com/SanariSan/cloud-front">front (gh actions)</a> | <a align="center" href="https://github.com/SanariSan/cloud-backend">back (gh actions)</a>
       </td>
     </tr>
     <tr>
       <td>
-        <a align="center" href="https://gist.github.com/SanariSan/0844c0cd009d76aefad456321e12b973">Shadowsocks heroku</a> deployment guide
+        <a align="center" href="https://gist.github.com/SanariSan/0844c0cd009d76aefad456321e12b973">Shadowsocks heroku</a> deployment guide (rules've been made to be broken 😈)
       </td>
     </tr>
     <tr>
@@ -52,7 +52,12 @@
     </tr>
     <tr>
       <td>
-        <a align="center" href="https://github.com/SanariSan/ts-backend-v2">Backend boilerplate</a> I'm currently working on
+        <a align="center" href="https://github.com/SanariSan/Fullstack-panel">Full-stack web-panel</a> I'm working on right now
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a align="center" href="https://github.com/SanariSan/ts-backend-v2">Some backend boilerplate</a> I've been toying with
       </td>
     </tr>
     <tr>
@@ -80,44 +85,44 @@
       <td colspan="3"><b>Worked with</b></td>
     </tr>
     <tr>
-      <td><code>JS es6-es2021</code></td>
+      <td><code>JS es6-es2022</code></td>
       <td><code>Typescript</code></td>
       <td><code>Node.JS</code></td>
     </tr>
     <tr>
       <td><code>React</code></td>
-      <td><code>Atom (@dbeining/react-atom)</code></td>
-      <td><code>HTML/CSS</code></td>
+      <td><code>Redux / Thunk / Saga</code></td>
+      <td><code>HTML / CSS / SASS</code></td>
     </tr>
     <tr>
-      <td><code>Redux</code></td>
-      <td><code>SASS</code></td>
+      <td><code>GH Actions</code></td>
       <td><code>Bootstrap</code></td>
+      <td><code>Redis</code></td>
     </tr>
     <tr>
       <td><code>Nginx</code></td>
       <td><code>Express</code></td>
-      <td><code>JWT</code></td>
+      <td><code>JWT / Sessions</code></td>
     </tr>
     <tr>
-      <td><code>Axios/Fetch</code></td>
       <td><code>SQL (PostgreSQL)</code></td>
       <td><code>TypeORM</code></td>
+      <td><code>Axios / Fetch</code></td>
     </tr>
     <tr>
       <td><code>Puppeteer</code></td>
-      <td><code>Ubuntu/bash</code></td>
-      <td><code>Docker/Compose</code></td>
+      <td><code>Ubuntu / bash</code></td>
+      <td><code>Docker / Compose</code></td>
     </tr>
     <tr>
       <td><code>Eslint</code></td>
-      <td><code>npm/yarn</code></td>
-      <td><code>git (cli)</code></td>
+      <td><code>npm / yarn</code></td>
+      <td><code>git cli</code></td>
     </tr>
     <tr>
       <td><code>heroku</code></td>
       <td><code>github pages</code></td>
-      <td><code>adb+frida</code></td>
+      <td><code>adb + frida</code></td>
     </tr>
   </table>
   
