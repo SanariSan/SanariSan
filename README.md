@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 and welcome to my profile!</h1>
-<h3 align="center">I'm Edward, 21 y.o. Junior developer from Russia 😇</h3>
+<h3 align="center">I'm Ed, 21 y.o. Junior full-stack dev 😇</h3>
 <h6 align="center"><i>«Always writing code like if it's gonna be used by someone else, even if it's not» </i></h6>
 
 <hr />
