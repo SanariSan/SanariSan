@@ -42,12 +42,17 @@
     </tr>
     <tr>
       <td>
-        <a align="center" href="https://gist.github.com/SanariSan/0844c0cd009d76aefad456321e12b973">Shadowsocks heroku</a> deployment guide (rules've been made to be broken 😈)
+        <a align="center" href="https://github.com/SanariSan/car-leasing-calc">Car leasing calc</a> front only | <a align="center" href="https://sanarisan.github.io/car-leasing-calc/">👉Deployed👈</a>
       </td>
     </tr>
     <tr>
       <td>
         Control script + set of containers to rollout <a align="center" href="https://github.com/SanariSan/v2ray-ws-tls">V2Ray-tls-vmess-ws</a> on your vps
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a align="center" href="https://gist.github.com/SanariSan/0844c0cd009d76aefad456321e12b973">Shadowsocks heroku</a> deployment guide (rules've been made to be broken 😈)
       </td>
     </tr>
     <tr>
@@ -166,4 +171,4 @@
 <hr />
 <h3 align="left">Get in touch:</h3>
 
-<a href="https://t.me/N0DE_JS" target="_blank" rel="noopener noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/telegram.svg" alt="SanariSan" height="30" width="40" /></a>
+<a href="https://t.me/N0DE_JS" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/?id=114954&format=svg&size=256&name=icons8-telegram-app.svg&fromSite=true" alt="SanariSan" height="50" width="60" /></a>
