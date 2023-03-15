@@ -32,11 +32,6 @@
     </tr>
     <tr>
       <td>
-        My <a align="center" href="https://github.com/SBoudrias/Inquirer.js/issues/1042#issue-995134115">first contribution</a> ( Inquirer )
-      </td>
-    </tr>
-    <tr>
-      <td>
         Full-stack cloud storage | <a align="center" href="https://storeton.nodejs.monster">👉Deployed👈</a> | <a align="center" href="https://github.com/SanariSan/cloud-fullstack">old deployment repo (heroku)</a> | <a align="center" href="https://github.com/SanariSan/cloud-front">front (gh actions)</a> | <a align="center" href="https://github.com/SanariSan/cloud-backend">back (gh actions)</a>
       </td>
     </tr>
@@ -52,12 +47,22 @@
     </tr>
     <tr>
       <td>
+        <a align="center" href="https://github.com/SanariSan/Algos">Algorithms</a> I've tried understanding and implementing
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a align="center" href="https://gist.github.com/SanariSan/0844c0cd009d76aefad456321e12b973">Shadowsocks heroku</a> deployment guide (rules've been made to be broken 😈)
       </td>
     </tr>
     <tr>
       <td>
-        <a align="center" href="https://github.com/SanariSan/Fullstack-panel">Full-stack web-panel</a> I'm working on right now
+        My <a align="center" href="https://github.com/SBoudrias/Inquirer.js/issues/1042#issue-995134115">first contribution</a> ( Inquirer )
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a align="center" href="https://github.com/SanariSan/Fullstack-panel">Full-stack web-panel</a> I'm working (kinda) on right now | <a align="center" href="https://panel.nodejs.monster">👉Deployed👈</a>
       </td>
     </tr>
     <tr>
