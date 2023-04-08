@@ -15,8 +15,14 @@
 <br />
 
 <div align="center">
-  <img height="170" align="center" src="https://github-readme-stats-phi-five-62.vercel.app/api?username=sanarisan&count_private=true&include_all_commits=false&exclude_repo=nft-pro-starter-pack&show_icons=true&theme=tokyonight" alt="SanariSan Stats" />
-  <img height="170" align="center" src="https://github-readme-stats-phi-five-62.vercel.app/api/top-langs/?username=sanarisan&exclude_repo=nft-pro-starter-pack&layout=compact&langs_count=10&theme=tokyonight" alt="SanariSan langs" />
+  <img height="170" align="center" src="https://github-readme-stats-phi-five-62.vercel.app/api?username=sanarisan&count_private=true&include_all_commits=false&exclude_repo=nft-pro-starter-pack&show_icons=true&theme=tokyonight" alt="SanariSan Stats (refresh page if not loaded)" />
+  <img height="170" align="center" src="https://github-readme-stats-phi-five-62.vercel.app/api/top-langs/?username=sanarisan&exclude_repo=nft-pro-starter-pack&layout=compact&langs_count=10&theme=tokyonight" alt="SanariSan langs (refresh page if not loaded)" />
+</div>
+
+<br />
+
+<div align="center">
+  <img height="270" align="center" src="https://leetcode.card.workers.dev/SanariSan?theme=dark&font=baloo&extension=activity" alt="SanariSan LeetCode Stats (refresh page if not loaded)" />
 </div>
 
 <br />
@@ -32,12 +38,17 @@
     </tr>
     <tr>
       <td>
+        <a align="center" href="https://github.com/SanariSan/Fullstack-panel">Full-stack web-panel</a> (react/sagas/sessions/db/nginx) | <a align="center" href="https://panel.nodejs.monster">👉Deployed👈</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
         Full-stack cloud storage | <a align="center" href="https://storeton.nodejs.monster">👉Deployed👈</a> | <a align="center" href="https://github.com/SanariSan/cloud-fullstack">old deployment repo (heroku)</a> | <a align="center" href="https://github.com/SanariSan/cloud-front">front (gh actions)</a> | <a align="center" href="https://github.com/SanariSan/cloud-backend">back (gh actions)</a>
       </td>
     </tr>
     <tr>
       <td>
-        <a align="center" href="https://github.com/SanariSan/car-leasing-calc">Car leasing calc</a> front only | <a align="center" href="https://sanarisan.github.io/car-leasing-calc/">👉Deployed👈</a>
+        <a align="center" href="https://github.com/SanariSan/car-leasing-calc">Car leasing calc</a> front only (react/thunk) | <a align="center" href="https://sanarisan.github.io/car-leasing-calc/">👉Deployed👈</a>
       </td>
     </tr>
     <tr>
@@ -47,7 +58,12 @@
     </tr>
     <tr>
       <td>
-        <a align="center" href="https://github.com/SanariSan/Algos">Algorithms</a> I've tried understanding and implementing
+        <a align="center" href="https://github.com/SanariSan/Algos">Algos</a> I've tried understanding and implementing
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a align="center" href="https://github.com/SanariSan/ts-backend-v2">TS backend boilerplate</a> I've been toying with (custom pubsub/logger/cli-dashboard/...)
       </td>
     </tr>
     <tr>
@@ -58,16 +74,6 @@
     <tr>
       <td>
         My <a align="center" href="https://github.com/SBoudrias/Inquirer.js/issues/1042#issue-995134115">first contribution</a> ( Inquirer )
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a align="center" href="https://github.com/SanariSan/Fullstack-panel">Full-stack web-panel</a> I'm working (kinda) on right now | <a align="center" href="https://panel.nodejs.monster">👉Deployed👈</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a align="center" href="https://github.com/SanariSan/ts-backend-v2">Some backend boilerplate</a> I've been toying with
       </td>
     </tr>
     <tr>
