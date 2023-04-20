@@ -15,8 +15,8 @@
 <br />
 
 <div align="center">
-  <img height="170" align="center" src="https://github-readme-stats-phi-five-62.vercel.app/api?username=sanarisan&count_private=true&include_all_commits=false&exclude_repo=nft-pro-starter-pack&show_icons=true&theme=tokyonight" alt="SanariSan Stats (refresh page if not loaded)" />
-  <img height="170" align="center" src="https://github-readme-stats-phi-five-62.vercel.app/api/top-langs/?username=sanarisan&exclude_repo=nft-pro-starter-pack&layout=compact&langs_count=10&theme=tokyonight" alt="SanariSan langs (refresh page if not loaded)" />
+  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=sanarisan&count_private=true&include_all_commits=false&exclude_repo=nft-pro-starter-pack&show_icons=true&theme=tokyonight" alt="SanariSan Stats (refresh page if not loaded)" />
+  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanarisan&exclude_repo=nft-pro-starter-pack&layout=compact&langs_count=10&theme=tokyonight" alt="SanariSan langs (refresh page if not loaded)" />
 </div>
 
 <br />
