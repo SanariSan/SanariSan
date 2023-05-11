@@ -38,12 +38,17 @@
     </tr>
     <tr>
       <td>
-        <a align="center" href="https://github.com/SanariSan/Fullstack-panel">Full-stack web-panel</a> (react/sagas/sessions/db/nginx) | <a align="center" href="https://panel.nodejs.monster">👉Deployed👈</a>
+        Full-stack cloud storage | <a align="center" href="https://storeton.nodejs.monster">👉Deployed👈</a> | old deployment  <a align="center" href="https://github.com/SanariSan/cloud-fullstack">repo (heroku)</a> | <a align="center" href="https://github.com/SanariSan/cloud-front">front (gh actions)</a> | <a align="center" href="https://github.com/SanariSan/cloud-backend">back (gh actions)</a>
       </td>
     </tr>
     <tr>
       <td>
-        Full-stack cloud storage | <a align="center" href="https://storeton.nodejs.monster">👉Deployed👈</a> | <a align="center" href="https://github.com/SanariSan/cloud-fullstack">old deployment repo (heroku)</a> | <a align="center" href="https://github.com/SanariSan/cloud-front">front (gh actions)</a> | <a align="center" href="https://github.com/SanariSan/cloud-backend">back (gh actions)</a>
+         <a align="center" href="https://github.com/SanariSan/tech-store">Full-stack tech store (monorep gh actions)</a> (react/chakra/sagas/sessions/db/nginx/docker) | <a align="center" href="https://test.nodejs.monster">👉Deployed👈</a></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a align="center" href="https://github.com/SanariSan/Fullstack-panel">Full-stack web-panel</a> (react/bootstrap/sagas/sessions/db/nginx/docker) | <a align="center" href="https://panel.nodejs.monster">👉Deployed👈</a>
       </td>
     </tr>
     <tr>
@@ -51,14 +56,19 @@
         <a align="center" href="https://github.com/SanariSan/car-leasing-calc">Car leasing calc</a> front only (react/thunk) | <a align="center" href="https://sanarisan.github.io/car-leasing-calc/">👉Deployed👈</a>
       </td>
     </tr>
-    <tr>
+     <tr>
       <td>
-        Control script + set of containers to rollout <a align="center" href="https://github.com/SanariSan/v2ray-ws-tls">V2Ray-tls-vmess-ws</a> on your vps
+        Control script + set of containers to setup <a align="center" href="https://github.com/SanariSan/nginx-proxy-ssl">Nginx with auto-ssl layer</a> on your vps (🔥 omega useful 🔥)
       </td>
     </tr>
     <tr>
       <td>
-        <a align="center" href="https://github.com/SanariSan/Algos">Algos</a> I've tried understanding and implementing
+        Control script + set of containers to rollout <a align="center" href="https://github.com/SanariSan/v2ray-ws-tls">V2Ray-tls-vmess-ws</a> on your vps (🔥 based on nginx-ssl, use this one too 🔥)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a align="center" href="https://github.com/SanariSan/Algos">Algos</a> I've tried understanding and implementing during leetcode attempts
       </td>
     </tr>
     <tr>
@@ -78,7 +88,7 @@
     </tr>
     <tr>
       <td>
-        <a align="center" href="https://github.com/SanariSan/node-js-async-workflow">Scheme I made</a> while learning how EventLoop and Async stuff works
+        <a align="center" href="https://github.com/SanariSan/node-js-async-workflow">Scheme I made</a> while learning how EventLoop and Async stuff works (looks cool, but not as useful 😜)
       </td>
     </tr>
     <tr>
