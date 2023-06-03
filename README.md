@@ -122,7 +122,7 @@
     </tr>
     <tr>
       <td><code>GH Actions</code></td>
-      <td><code>Bootstrap</code></td>
+      <td><code>Bootstrap / Chakra UI</code></td>
       <td><code>Redis</code></td>
     </tr>
     <tr>
@@ -131,24 +131,19 @@
       <td><code>JWT / Sessions</code></td>
     </tr>
     <tr>
-      <td><code>SQL (PostgreSQL)</code></td>
+      <td><code>PostgreSQL</code></td>
       <td><code>TypeORM</code></td>
-      <td><code>Axios / Fetch</code></td>
+      <td><code>Puppeteer</code></td>
     </tr>
     <tr>
-      <td><code>Puppeteer</code></td>
+      <td><code>Eslint</code></td>
       <td><code>Ubuntu / bash</code></td>
       <td><code>Docker / Compose</code></td>
     </tr>
     <tr>
-      <td><code>Eslint</code></td>
+      <td><code>gh pages / heroku</code></td>
+      <td><code>adb / frida</code></td>
       <td><code>npm / yarn</code></td>
-      <td><code>git cli</code></td>
-    </tr>
-    <tr>
-      <td><code>heroku</code></td>
-      <td><code>github pages</code></td>
-      <td><code>adb + frida</code></td>
     </tr>
   </table>
   
