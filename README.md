@@ -48,11 +48,6 @@
     </tr>
     <tr>
       <td>
-        <a align="center" href="https://github.com/SanariSan/Fullstack-panel">Full-stack web-panel</a> (react/bootstrap/sagas/sessions/db/nginx/docker) | <a align="center" href="https://panel.nodejs.monster">👉Deployed👈</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <a align="center" href="https://github.com/SanariSan/car-leasing-calc">Car leasing calc</a> front only (react/thunk) | <a align="center" href="https://sanarisan.github.io/car-leasing-calc/">👉Deployed👈</a>
       </td>
     </tr>
