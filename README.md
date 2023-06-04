@@ -38,12 +38,12 @@
     </tr>
     <tr>
       <td>
-        Full-stack cloud storage | <a align="center" href="https://storeton.nodejs.monster">👉Deployed👈</a> | old deployment  <a align="center" href="https://github.com/SanariSan/cloud-fullstack">repo (heroku)</a> | <a align="center" href="https://github.com/SanariSan/cloud-front">front (gh actions)</a> | <a align="center" href="https://github.com/SanariSan/cloud-backend">back (gh actions)</a>
+         <a align="center" href="https://github.com/SanariSan/tech-store">Full-stack tech store (monorep gh actions)</a> (react/chakra/sagas/sessions/db/nginx/docker) | <a align="center" href="https://test.nodejs.monster">👉Deployed👈</a></a>
       </td>
     </tr>
     <tr>
       <td>
-         <a align="center" href="https://github.com/SanariSan/tech-store">Full-stack tech store (monorep gh actions)</a> (react/chakra/sagas/sessions/db/nginx/docker) | <a align="center" href="https://test.nodejs.monster">👉Deployed👈</a></a>
+        Full-stack cloud storage | <a align="center" href="https://storeton.nodejs.monster">👉Deployed👈</a> | old deployment  <a align="center" href="https://github.com/SanariSan/cloud-fullstack">repo (heroku)</a> | <a align="center" href="https://github.com/SanariSan/cloud-front">front (gh actions)</a> | <a align="center" href="https://github.com/SanariSan/cloud-backend">back (gh actions)</a>
       </td>
     </tr>
     <tr>
