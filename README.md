@@ -15,14 +15,16 @@
 <br />
 
 <div align="center">
-  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=sanarisan&count_private=true&include_all_commits=false&exclude_repo=nft-pro-starter-pack&show_icons=true&theme=tokyonight" alt="SanariSan Stats (refresh page if not loaded)" />
+  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?layout=compact&show_icons=true&theme=tokyonight&username=SanariSan" alt="SanariSan Wakatime Stats (refresh page if not loaded)" />
   <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanarisan&exclude_repo=nft-pro-starter-pack&layout=compact&langs_count=10&theme=tokyonight" alt="SanariSan langs (refresh page if not loaded)" />
 </div>
 
 <br />
 
 <div align="center">
+  <img height="270" align="center" src="https://github-readme-stats.vercel.app/api?username=sanarisan&count_private=true&include_all_commits=false&exclude_repo=nft-pro-starter-pack&show_icons=true&theme=tokyonight" alt="SanariSan Stats (refresh page if not loaded)" />
   <img height="270" align="center" src="https://leetcode.card.workers.dev/SanariSan?theme=dark&font=baloo&extension=activity" alt="SanariSan LeetCode Stats (refresh page if not loaded)" />
+   
 </div>
 
 <br />
