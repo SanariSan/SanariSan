@@ -50,7 +50,7 @@
     </tr>
     <tr>
       <td>
-         <a align="center" href="https://github.com/SanariSan/tech-store">Front whatsapp-like simple chat (write yourself to test)</a> (react/chakra/sagas/nginx/docker) | <a align="center" href="https://whatsapp.nodejs.monster">👉Deployed👈</a></a>
+         <a align="center" href="https://github.com/SanariSan/wa-assignment">Front whatsapp-like simple chat (write yourself to test)</a> (react/chakra/sagas/nginx/docker) | <a align="center" href="https://whatsapp.nodejs.monster">👉Deployed👈</a></a>
       </td>
     </tr>
     <tr>
