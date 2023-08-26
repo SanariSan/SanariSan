@@ -189,4 +189,4 @@
 <hr />
 <h3 align="left">Get in touch:</h3>
 
-<a href="https://t.me/N0DE_JS" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/?id=114954&format=svg&size=256&name=icons8-telegram-app.svg&fromSite=true" alt="SanariSan" height="50" width="60" /></a>
+<a href="https://t.me/N0DE_JS" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/?id=114954" alt="SanariSan" height="50" width="60" /></a>
