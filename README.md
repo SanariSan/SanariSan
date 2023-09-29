@@ -40,32 +40,38 @@
     </tr>
     <tr>
       <td>
-         <a align="center" href="https://github.com/SanariSan/tech-store">Full-stack tech store (monorep gh actions)</a> (react/chakra/sagas/sessions/db/nginx/docker) | <a align="center" href="https://market.nodejs.monster">👉Deployed👈</a></a>
+         <a align="center" href="https://github.com/SanariSan/tech-store">Full-stack tech store</a> <a align="center" href="https://market.nodejs.monster">👉Deployed👈</a> | (react/chakra/sagas/sessions/db/nginx/docker/gh_actions)</a>
       </td>
     </tr>
     <tr>
       <td>
-        Full-stack cloud storage | <a align="center" href="https://storeton.nodejs.monster">👉Deployed👈</a> | old deployment  <a align="center" href="https://github.com/SanariSan/cloud-fullstack">repo (heroku)</a> | <a align="center" href="https://github.com/SanariSan/cloud-front">front (gh actions)</a> | <a align="center" href="https://github.com/SanariSan/cloud-backend">back (gh actions)</a>
+        Full-stack cloud storage | <a align="center" href="https://storeton.nodejs.monster">👉Deployed👈</a> | <a align="center" href="https://github.com/SanariSan/cloud-front">front (gh actions)</a> | <a align="center" href="https://github.com/SanariSan/cloud-backend">back (gh actions)</a> | old deployment  <a align="center" href="https://github.com/SanariSan/cloud-fullstack">repo (heroku)</a>
       </td>
     </tr>
     <tr>
       <td>
-         <a align="center" href="https://github.com/SanariSan/wa-assignment">Front whatsapp-like simple chat (write yourself to test)</a> (react/chakra/sagas/nginx/docker) | <a align="center" href="https://whatsapp.nodejs.monster">👉Deployed👈</a></a>
+        👉<a align="center" href="https://dev.to/sanarisan/elevating-react-context-stay-maintainable-4pn5">My article</a>👈 on how to use React Context in maintainable way 🔮
+      </td>
+    </tr>
+    <tr>
+    <tr>
+      <td>
+         <a align="center" href="https://github.com/SanariSan/wa-assignment">Front whatsapp-like simple chat</a> (write yourself to test) <a align="center" href="https://whatsapp.nodejs.monster">👉Deployed👈</a> | (react/chakra/sagas/nginx/docker)</a>
       </td>
     </tr>
     <tr>
       <td>
-        <a align="center" href="https://github.com/SanariSan/car-leasing-calc">Car leasing calc</a> front only (react/thunk) | <a align="center" href="https://sanarisan.github.io/car-leasing-calc/">👉Deployed👈</a>
+        <a align="center" href="https://github.com/SanariSan/car-leasing-calc">Car leasing calc</a> front only <a align="center" href="https://sanarisan.github.io/car-leasing-calc/">👉Deployed👈</a> | (react/thunk)
       </td>
     </tr>
      <tr>
       <td>
-        Control script + set of containers to setup <a align="center" href="https://github.com/SanariSan/nginx-proxy-ssl">Nginx with auto-ssl layer</a> on your vps (🔥 omega useful 🔥)
+        Control script + set of containers to setup <a align="center" href="https://github.com/SanariSan/nginx-proxy-ssl">Nginx with auto-ssl layer</a> on your vps (🔥 very handful 🔥)
       </td>
     </tr>
     <tr>
       <td>
-        Control script + set of containers to rollout <a align="center" href="https://github.com/SanariSan/v2ray-ws-tls">V2Ray-tls-vmess-ws</a> on your vps (🔥 based on nginx-ssl, use this one too 🔥)
+        Control script + set of containers to rollout <a align="center" href="https://github.com/SanariSan/v2ray-ws-tls">V2Ray-tls-vmess-ws</a> on your vps (🔥 based on nginx-ssl, ez & secure proxy 🔥)
       </td>
     </tr>
     <tr>
