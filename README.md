@@ -130,7 +130,7 @@
     </tr>
     <tr>
       <td><code>GH Actions</code></td>
-      <td><code>Bootstrap / Chakra UI</code></td>
+      <td><code>Bootstrap / Chakra / MUI</code></td>
       <td><code>Redis</code></td>
     </tr>
     <tr>
@@ -146,7 +146,7 @@
     <tr>
       <td><code>PostgreSQL</code></td>
       <td><code>TypeORM</code></td>
-      <td><code>Puppeteer</code></td>
+      <td><code>MongoDB</code></td>
     </tr>
     <tr>
       <td><code>Eslint</code></td>
