@@ -61,7 +61,7 @@
     </tr>
     <tr>
       <td>
-        <a align="center" href="https://github.com/SanariSan/car-leasing-calc">Car leasing calc</a> front only <a align="center" href="https://sanarisan.github.io/car-leasing-calc/">👉Deployed👈</a> | (react/thunk)
+        <a align="center" href="https://github.com/SanariSan/car-leasing-calc">Car leasing calc</a> front only <a align="center" href="https://sanarisan.github.io/car-leasing-calc/">👉Deployed👈</a> | (react/thunk/bootstrap)
       </td>
     </tr>
      <tr>
