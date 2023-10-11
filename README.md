@@ -119,7 +119,7 @@
       <td colspan="3"><b>Worked with</b></td>
     </tr>
     <tr>
-      <td><code>JS es6-es2022</code></td>
+      <td><code>JS es6-es2023</code></td>
       <td><code>Typescript</code></td>
       <td><code>Node.JS</code></td>
     </tr>
@@ -129,7 +129,7 @@
       <td><code>HTML / CSS / SASS</code></td>
     </tr>
     <tr>
-      <td><code>GH Actions</code></td>
+      <td><code>Docker / Compose</code></td>
       <td><code>Bootstrap / Chakra / MUI</code></td>
       <td><code>Redis</code></td>
     </tr>
@@ -149,14 +149,14 @@
       <td><code>MongoDB</code></td>
     </tr>
     <tr>
-      <td><code>Eslint</code></td>
-      <td><code>Ubuntu / bash</code></td>
-      <td><code>Docker / Compose</code></td>
+      <td><code>Ubuntu (main os)</code></td>
+      <td><code>GH Actions</code></td>
+      <td><code>gh pages / heroku</code></td>
     </tr>
     <tr>
-      <td><code>gh pages / heroku</code></td>
+      <td><code>vps pipeline deployment</code></td>
+      <td><code>cloudflare</code></td>
       <td><code>adb / frida</code></td>
-      <td><code>npm / yarn</code></td>
     </tr>
   </table>
   
