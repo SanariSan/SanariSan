@@ -134,9 +134,14 @@
       <td><code>Redis</code></td>
     </tr>
     <tr>
+      <td><code>AWS ami/templating</code></td>
+      <td><code>AWS ecr pipelining</code></td>
+      <td><code>RabbitMQ</code></td>
+    </tr>
+    <tr>
       <td><code>Nginx</code></td>
       <td><code>Express</code></td>
-      <td><code>JWT / Sessions</code></td>
+      <td><code>Nest</code></td>
     </tr>
     <tr>
       <td><code>PostgreSQL</code></td>
@@ -173,19 +178,18 @@
       <td><code>Preact</code></td>
     </tr>
     <tr>
-      <td><code>Message brokers</code></td>
       <td><code>GraphQL</code></td>
       <td><code>Microservices</code></td>
-    </tr>
-    <tr>
       <td><code>Next</code></td>
-      <td><code>SSR</code></td>
-      <td><code>Nest</code></td>
     </tr>
     <tr>
+      <td><code>Storybook</code></td>
       <td><code>Tests</code></td>
-      <td><code>Vue</code></td>
-      <td><code>Passport.js</code></td>
+      <td><code>SSR</code></td>
+    </tr>
+    <tr>
+      <td><code>Kubernetes</code></td>
+      <td><code>Swagger</code></td>
     </tr>
   </table>
 </div>
