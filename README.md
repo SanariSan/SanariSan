@@ -40,7 +40,7 @@
     </tr>
     <tr>
       <td>
-         <a align="center" href="https://github.com/SanariSan/tech-store">Full-stack tech store</a> <a align="center" href="https://market.nodejs.monster">👉Deployed👈</a> | (react/chakra/sagas/sessions/db/nginx/docker/gh_actions)</a>
+         <a align="center" href="https://github.com/SanariSan/tech-store">Full-stack tech store</a> | <a align="center" href="https://market.nodejs.monster">👉Deployed👈</a> | (react/chakra/sagas/sessions/db/nginx/docker/gh_actions)</a>
       </td>
     </tr>
     <tr>
