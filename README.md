@@ -134,8 +134,8 @@
       <td><code>Redis</code></td>
     </tr>
     <tr>
-      <td><code>AWS ami/templating</code></td>
-      <td><code>AWS ecr pipelining</code></td>
+      <td><code>AWS ami / templates / ecr / s3</code></td>
+      <td><code>Swagger</code></td>
       <td><code>RabbitMQ</code></td>
     </tr>
     <tr>
@@ -149,14 +149,14 @@
       <td><code>MongoDB</code></td>
     </tr>
     <tr>
+      <td><code>Loki / Grafana</code></td>
       <td><code>Ubuntu (main os)</code></td>
-      <td><code>GH Actions</code></td>
-      <td><code>gh pages / heroku</code></td>
+      <td><code>adb / frida</code></td>
     </tr>
     <tr>
-      <td><code>vps pipeline deployment</code></td>
+      <td><code>gh pages / heroku/ vps deployment</code></td>
+      <td><code>GH Actions</code></td>
       <td><code>cloudflare</code></td>
-      <td><code>adb / frida</code></td>
     </tr>
   </table>
   
@@ -189,7 +189,6 @@
     </tr>
     <tr>
       <td><code>Kubernetes</code></td>
-      <td><code>Swagger</code></td>
     </tr>
   </table>
 </div>
