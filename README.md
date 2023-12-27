@@ -134,7 +134,7 @@
       <td><code>Redis</code></td>
     </tr>
     <tr>
-      <td><code>AWS ami / templates / ecr / s3</code></td>
+      <td><code>AWS (ami,templates,ecs,fargate,lb,vpc,...)</code></td>
       <td><code>Swagger</code></td>
       <td><code>RabbitMQ</code></td>
     </tr>
@@ -154,7 +154,7 @@
       <td><code>adb / frida</code></td>
     </tr>
     <tr>
-      <td><code>gh pages / heroku/ vps deployment</code></td>
+      <td><code>gh pages / heroku / custom vps deployment</code></td>
       <td><code>GH Actions</code></td>
       <td><code>cloudflare</code></td>
     </tr>
