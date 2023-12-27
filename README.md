@@ -134,7 +134,7 @@
       <td><code>Redis</code></td>
     </tr>
     <tr>
-      <td><code>AWS (ami,templates,ecs,fargate,lb,vpc,...)</code></td>
+      <td><code>AWS cloudformation (ecs,fargate,lb,vpc,sg,...)</code></td>
       <td><code>Swagger</code></td>
       <td><code>RabbitMQ</code></td>
     </tr>
