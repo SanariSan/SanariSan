@@ -149,7 +149,7 @@
       <td><code>MongoDB</code></td>
     </tr>
     <tr>
-      <td><code>Loki / Grafana</code></td>
+      <td><code>Loki / Grafana (full setup)</code></td>
       <td><code>Ubuntu (main os)</code></td>
       <td><code>adb / frida</code></td>
     </tr>
