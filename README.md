@@ -91,7 +91,7 @@
     </tr>
     <tr>
       <td>
-        My <a align="center" href="https://github.com/SBoudrias/Inquirer.js/issues/1042#issue-995134115">first contribution</a> ( Inquirer )
+        My <a align="center" href="https://github.com/SBoudrias/Inquirer.js/issues/1042#issue-995134115">first contribution</a> to Inquirer (gone wrong, broke productions 😅)
       </td>
     </tr>
     <tr>
