@@ -136,7 +136,7 @@
     <tr>
       <td><code>AWS (cf,ecs,asg,lb,vpc,nat,...)</code></td>
       <td><code>Swagger</code></td>
-      <td><code>RabbitMQ</code></td>
+      <td><code>RabbitMQ / SQS</code></td>
     </tr>
     <tr>
       <td><code>Nginx</code></td>
