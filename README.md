@@ -199,3 +199,7 @@
 <h3 align="left">Get in touch:</h3>
 
 <a href="https://t.me/N0DE_JS" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/?id=114954" alt="SanariSan" height="50" width="60" /></a>
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: contain; width: 100vw; opacity: 0.3; background: center / cover no-repeat url('https://raw.githubusercontent.com/SanariSan/_/master/lK9LM8Z.gif');]{x0000}$}
