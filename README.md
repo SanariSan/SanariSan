@@ -184,19 +184,14 @@
       <td colspan="3"><b>Planned</b></td>
     </tr>
     <tr>
-      <td><code>WebPack</code></td>
+      <td><code>WebPack from ground up</code></td>
       <td><code>Mobx</code></td>
       <td><code>Preact</code></td>
     </tr>
     <tr>
       <td><code>GraphQL</code></td>
-      <td><code>Microservices</code></td>
-      <td><code>Next</code></td>
-    </tr>
-    <tr>
-      <td><code>Storybook</code></td>
-      <td><code>Tests</code></td>
-      <td><code>SSR</code></td>
+      <td><code>Next / SSR</code></td>
+      <td><code>Proper Front/Back tests</code></td>
     </tr>
     <tr>
       <td><code>Kubernetes</code></td>
