@@ -111,6 +111,17 @@
 
 <hr />
 
+<div align="center">
+<h3 align="center">Rip css xss 08.06.24</h2>
+<h3 align="center">GH please add customization!</h2>
+<br>
+<img align="center" src="https://raw.githubusercontent.com/SanariSan/_/master/rip(7).gif" width="800" height="449.75" />
+</div>
+
+<br />
+
+<hr />
+
 <br />
 
 <div align="center">
