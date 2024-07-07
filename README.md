@@ -112,7 +112,7 @@
 <hr />
 
 <div align="center">
-<h3 align="center">Rip css xss 08.06.24</h2>
+<h3 align="center">Rip <a href="https://x.com/cloud11665/status/1799136093071163396">css xss</a> 08.06.24</h2>
 <h3 align="center">GH please add customization!</h2>
 <br>
 <img align="center" src="https://raw.githubusercontent.com/SanariSan/_/master/rip.gif" width="800" height="449.75" />
