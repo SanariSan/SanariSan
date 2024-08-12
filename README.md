@@ -195,6 +195,7 @@
     </tr>
     <tr>
       <td><code>Kubernetes</code></td>
+      <td><code>GO</code></td>
     </tr>
   </table>
 </div>
