@@ -130,8 +130,8 @@
       <td colspan="3"><b>Worked with</b></td>
     </tr>
     <tr>
-      <td><code>JS es6-es2023</code></td>
-      <td><code>Typescript</code></td>
+      <td><code>JS</code></td>
+      <td><code>TS</code></td>
       <td><code>Node.JS</code></td>
     </tr>
     <tr>
