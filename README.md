@@ -40,12 +40,12 @@
     </tr>
     <tr>
       <td>
-         <a align="center" href="https://github.com/SanariSan/tech-store">Full-stack tech store</a> | <a align="center" href="https://market.nodejs.monster">👉Deployed👈</a> | (react/chakra/sagas/sessions/db/nginx/docker/gh_actions)</a>
+         <a align="center" href="https://github.com/SanariSan/tech-store">Full-stack tech store</a> | <a align="center" href="https://market.ihavenopersonal.life">👉Deployed👈</a> | (react/chakra/sagas/sessions/db/nginx/docker/gh_actions)</a>
       </td>
     </tr>
     <tr>
       <td>
-        Full-stack cloud storage | <a align="center" href="https://storeton.nodejs.monster">👉Deployed👈</a> | <a align="center" href="https://github.com/SanariSan/cloud-front">front (gh actions)</a> | <a align="center" href="https://github.com/SanariSan/cloud-backend">back (gh actions)</a> | old deployment  <a align="center" href="https://github.com/SanariSan/cloud-fullstack">repo (heroku)</a>
+        Full-stack cloud storage | <!-- <a align="center" href="https://storeton.ihavenopersonal.life">👉Deployed👈</a> |--> <a align="center" href="https://github.com/SanariSan/cloud-front">front (gh actions)</a> | <a align="center" href="https://github.com/SanariSan/cloud-backend">back (gh actions)</a> | old deployment  <a align="center" href="https://github.com/SanariSan/cloud-fullstack">repo (heroku)</a>
       </td>
     </tr>
     <tr>
@@ -54,11 +54,11 @@
       </td>
     </tr>
     <tr>
-    <tr>
+    <!--<tr>
       <td>
-         <a align="center" href="https://github.com/SanariSan/wa-assignment">Front whatsapp-like simple chat</a> (write yourself to test) <a align="center" href="https://whatsapp.nodejs.monster">👉Deployed👈</a> | (react/chakra/sagas/nginx/docker)</a>
+         <a align="center" href="https://github.com/SanariSan/wa-assignment">Front whatsapp-like simple chat</a> (write yourself to test) <a align="center" href="https://whatsapp.ihavenopersonal.life">👉Deployed👈</a> | (react/chakra/sagas/nginx/docker)</a>
       </td>
-    </tr>
+    </tr>-->
     <tr>
       <td>
         <a align="center" href="https://github.com/SanariSan/car-leasing-calc">Car leasing calc</a> front only <a align="center" href="https://sanarisan.github.io/car-leasing-calc/">👉Deployed👈</a> | (react/thunk/bootstrap)
@@ -91,7 +91,7 @@
     </tr>
     <tr>
       <td>
-        My <a align="center" href="https://github.com/SBoudrias/Inquirer.js/issues/1042#issue-995134115">first contribution</a> to Inquirer (gone wrong, broke productions 😅)
+        My <a align="center" href="https://github.com/SBoudrias/Inquirer.js/issues/1042#issue-995134115">first contribution</a> to Inquirer (gone wrong, broke productions 🙂)
       </td>
     </tr>
     <tr>
