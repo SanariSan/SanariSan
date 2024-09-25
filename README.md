@@ -45,7 +45,7 @@
     </tr>
     <tr>
       <td>
-        Full-stack cloud storage | <!-- <a align="center" href="https://storeton.ihavenopersonal.life">👉Deployed👈</a> |--> <a align="center" href="https://github.com/SanariSan/cloud-front">front (gh actions)</a> | <a align="center" href="https://github.com/SanariSan/cloud-backend">back (gh actions)</a> | old deployment  <a align="center" href="https://github.com/SanariSan/cloud-fullstack">repo (heroku)</a>
+        Lightweight Preact, Sass, Esbuild dev env, no more 1gb <code>node_modules</code> folders 💀 | 👉 <a align="center" href="https://github.com/SanariSan/esbuild-preact">wow really let me see!</a> 
       </td>
     </tr>
     <tr>
@@ -61,10 +61,10 @@
     </tr>-->
     <tr>
       <td>
-        <a align="center" href="https://github.com/SanariSan/car-leasing-calc">Car leasing calc</a> front only <a align="center" href="https://sanarisan.github.io/car-leasing-calc/">👉Deployed👈</a> | (react/thunk/bootstrap)
+        Full-stack cloud storage | <!-- <a align="center" href="https://storeton.ihavenopersonal.life">👉Deployed👈</a> |--> <a align="center" href="https://github.com/SanariSan/cloud-front">front (gh actions)</a> | <a align="center" href="https://github.com/SanariSan/cloud-backend">back (gh actions)</a> | old deployment  <a align="center" href="https://github.com/SanariSan/cloud-fullstack">repo (heroku)</a> | Currently not deployed, need to fix security
       </td>
     </tr>
-     <tr>
+    <tr>
       <td>
         Control script + set of containers to setup <a align="center" href="https://github.com/SanariSan/nginx-proxy-ssl">Nginx with auto-ssl layer</a> on your vps (🔥 very handful 🔥)
       </td>
@@ -72,6 +72,11 @@
     <tr>
       <td>
         Control script + set of containers to rollout <a align="center" href="https://github.com/SanariSan/v2ray-ws-tls">V2Ray-tls-vmess-ws</a> on your vps (🔥 based on nginx-ssl, ez & secure proxy 🔥)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a align="center" href="https://github.com/SanariSan/car-leasing-calc">Car leasing calc</a> front only <a align="center" href="https://sanarisan.github.io/car-leasing-calc/">👉Deployed👈</a> | (react/thunk/bootstrap)
       </td>
     </tr>
     <tr>
