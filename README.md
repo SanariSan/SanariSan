@@ -173,7 +173,7 @@
       <td><code>adb / frida</code></td>
     </tr>
     <tr>
-      <td><code>gh pages / heroku / custom vps deployment</code></td>
+      <td><code>gh pages / heroku / vps deployment</code></td>
       <td><code>GH Actions</code></td>
       <td><code>cloudflare</code></td>
     </tr>
