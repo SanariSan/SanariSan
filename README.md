@@ -24,7 +24,11 @@
 <div align="center">
   <img height="220" align="center" src="https://github-readme-stats.vercel.app/api?username=sanarisan&count_private=true&include_all_commits=false&show_icons=true&theme=tokyonight" alt="SanariSan Stats (refresh page if not loaded)" />
   <img height="220" align="center" src="https://leetcode.card.workers.dev/SanariSan?theme=dark&font=baloo&extension=activity" alt="SanariSan LeetCode Stats (refresh page if not loaded)" />
-   
+</div>
+
+<div align="center">
+<h3 align="center">Visitor counter:</h3>
+<img src="https://profile-counter.glitch.me/SanariSan/count.svg" />
 </div>
 
 <br />
