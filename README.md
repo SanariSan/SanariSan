@@ -15,15 +15,15 @@
 <br />
 
 <div align="center">
-  <img height="235" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?layout=compact&show_icons=true&theme=tokyonight&username=SanariSan" alt="SanariSan Wakatime Stats (refresh page if not loaded) " />
-  <img height="235" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanarisan&layout=compact&langs_count=10&theme=tokyonight" alt="SanariSan langs (refresh page if not loaded)" />
+  <img width="255" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?layout=compact&show_icons=true&theme=tokyonight&username=SanariSan" alt="SanariSan Wakatime Stats (refresh page if not loaded) " />
+  <img width="375" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanarisan&layout=compact&langs_count=10&theme=tokyonight" alt="SanariSan langs (refresh page if not loaded)" />
 </div>
 
 <br />
 
 <div align="center">
   <img height="220" align="center" src="https://github-readme-stats.vercel.app/api?username=sanarisan&count_private=true&include_all_commits=false&show_icons=true&theme=tokyonight" alt="SanariSan Stats (refresh page if not loaded)" />
-  <img height="220" align="center" src="https://leetcard.jacoblin.cool/SanariSan?theme=dark&font=baloo&extension=activity" alt="SanariSan LeetCode Stats (refresh page if not loaded)" />
+  <img width="240" align="center" src="https://leetcard.jacoblin.cool/SanariSan?theme=dark&font=baloo&extension=activity" alt="SanariSan LeetCode Stats (refresh page if not loaded)" />
 </div>
 
 <div align="center">
