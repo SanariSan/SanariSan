@@ -8,7 +8,8 @@
 
 <div align="center">
   <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SanariSan&theme=tokyonight&margin-w=15&margin-h=15&column=5&title=Commit,Issues,PR,Repo,Joined2020" />
+<!--     github-profile-trophy.vercel.app -->
+    <img src="https://trophygh.kolioaris.xyz/?username=SanariSan&theme=tokyonight&margin-w=15&margin-h=15&column=5&title=Commit,Issues,PR,Repo,Joined2020" />
   </a>
 </div>
 
@@ -139,21 +140,18 @@
       <td colspan="3"><b>Worked with</b></td>
     </tr>
     <tr>
-      <td><code>JS / Node.JS / TS</code></td>
-      <td><code>React</code></td>
-      <td><code>Redux</code></td>
+       <td><code>JS / Node.JS / TS</code></td>
+       <td><code>HTML / CSS / SASS</code></td>
+      <td><code>React / Preact</code></td>
     </tr>
     <tr>
-      <td><code>Thunk</code></td>
-      <td><code>Saga</code></td>
-      <td><code>HTML / CSS / SASS</code></td>
+      <td><code>Redux / Saga / Thunk / Jotai / Nanostores</code></td>
+      <td><code>Astro (SSG -> SPA)</code></td>
+      <td><code>WebPack / Esbuild / Vite</code></td>
     </tr>
-      <td><code>Preact</code></td>
-      <td><code>WebPack</code></td>
-      <td><code>Esbuild</code></td>
     <tr>
       <td><code>Docker / Compose</code></td>
-      <td><code>Bootstrap / Chakra / MUI</code></td>
+      <td><code>Bootstrap / Chakra / MUI / Radix / Shadcn</code></td>
       <td><code>Redis</code></td>
     </tr>
     <tr>
@@ -167,8 +165,8 @@
       <td><code>Nest</code></td>
     </tr>
     <tr>
-      <td><code>PostgreSQL</code></td>
       <td><code>TypeORM</code></td>
+      <td><code>PostgreSQL</code></td>
       <td><code>MongoDB</code></td>
     </tr>
     <tr>
@@ -196,14 +194,14 @@
       <td colspan="3"><b>Planned</b></td>
     </tr>
     <tr>
-      <td><code>GO</code></td>
+      <td><code>SSR (Astro)</code></td>
       <td><code>Kubernetes</code></td>
-      <td><code>Proper Front/Back tests</code></td>
+      <td><code>Proper Frontend testing</code></td>
     </tr>
     <tr>
-      <td><code>Mobx</code></td>
-      <td><code>GraphQL</code></td>
-      <td><code>Next / SSR</code></td>
+      <td><code>GraphQL (probably won't)</code></td>
+      <td><code>GO (have tried, but no usecase)</code></td>
+      <td><code>Next (can't be better than astro right ?)</code></td>
     </tr>
   </table>
 </div>
