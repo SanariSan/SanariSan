@@ -140,44 +140,29 @@
       <td colspan="3"><b>Worked with</b></td>
     </tr>
     <tr>
-       <td><code>JS / Node.JS / TS</code></td>
-       <td><code>HTML / CSS / SASS</code></td>
+       <td><code>JS / Node.JS / TS HTML / CSS / SASS</code></td>
       <td><code>React / Preact</code></td>
+      <td><code>Redux / Saga / Thunk / Jotai / Nanostores</code></td>
     </tr>
     <tr>
-      <td><code>Redux / Saga / Thunk / Jotai / Nanostores</code></td>
+      <td><code>Feature-Sliced Design (FSD)</code></td>
       <td><code>Astro (SSG -> SPA)</code></td>
       <td><code>WebPack / Esbuild / Vite</code></td>
     </tr>
     <tr>
-      <td><code>Docker / Compose</code></td>
       <td><code>Bootstrap / Chakra / MUI / Radix / Shadcn</code></td>
-      <td><code>Redis</code></td>
+      <td><code>Nest / Express / Swagger / Nginx</code></td>
+      <td><code>Docker / Compose</code></td>
     </tr>
     <tr>
-      <td><code>AWS (cf,ecs,asg,lb,vpc,nat,...)</code></td>
-      <td><code>Swagger</code></td>
+      <td><code>PostgreSQL / MongoDB / Redis / TypeORM</code></td>
+       <td><code>Loki / Grafana / Fluentd</code></td>
       <td><code>RabbitMQ / SQS</code></td>
     </tr>
     <tr>
-      <td><code>Nginx</code></td>
-      <td><code>Express</code></td>
-      <td><code>Nest</code></td>
-    </tr>
-    <tr>
-      <td><code>TypeORM</code></td>
-      <td><code>PostgreSQL</code></td>
-      <td><code>MongoDB</code></td>
-    </tr>
-    <tr>
-      <td><code>Loki/Grafana/Fluentd</code></td>
-      <td><code>Ubuntu (main os)</code></td>
+      <td><code>AWS (cf,ecs,asg,lb,vpc,nat,...)</code></td>
       <td><code>adb / frida</code></td>
-    </tr>
-    <tr>
-      <td><code>gh pages / heroku / vps deployment</code></td>
-      <td><code>GH Actions</code></td>
-      <td><code>cloudflare</code></td>
+      <td><code>gh pages, actions / heroku / vps deployment</code></td>
     </tr>
   </table>
   
