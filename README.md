@@ -140,7 +140,7 @@
       <td colspan="3"><b>Worked with</b></td>
     </tr>
     <tr>
-       <td><code>JS / Node.JS / TS HTML / CSS / SASS</code></td>
+       <td><code>JS / Node.JS / TS / HTML / CSS / SASS</code></td>
       <td><code>React / Preact</code></td>
       <td><code>Redux / Saga / Thunk / Jotai / Nanostores</code></td>
     </tr>
