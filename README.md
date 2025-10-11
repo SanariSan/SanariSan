@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 and welcome to my profile!</h1>
-<h3 align="center">I'm full-stack web dev 😇</h3>
+<h3 align="center">I'm a full-stack web dev 😇</h3>
 <h6 align="center"><i>«Always writing code like if it's gonna be used by someone else, even if it's not» </i></h6>
 
 <hr />
