@@ -27,10 +27,10 @@
   <img width="240" align="center" src="https://leetcard.jacoblin.cool/SanariSan?theme=dark&font=baloo&extension=activity" alt="SanariSan LeetCode Stats (refresh page if not loaded)" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <h3 align="center">Visitor counter:</h3>
 <img src="https://profile-counter.glitch.me/SanariSan/count.svg" />
-</div>
+</div> -->
 
 <br />
 
