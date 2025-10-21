@@ -45,7 +45,7 @@
     </tr>
     <tr>
       <td>
-         <a align="center" href="https://github.com/SanariSan/tech-store">Full-stack tech store</a> | <a align="center" href="https://market.ihavenopersonal.life">👉Deployed👈</a> | (react/chakra/sagas/sessions/db/nginx/docker/gh_actions)</a>
+         <a align="center" href="https://github.com/SanariSan/tech-store">Full-stack tech store</a> | <!-- <a align="center" href="https://market.ihavenopersonal.life">👉Deployed👈</a> --> Currently not deployed :( | (react/chakra/sagas/sessions/db/nginx/docker/gh_actions)</a>
       </td>
     </tr>
     <tr>
@@ -66,7 +66,7 @@
     </tr>-->
     <tr>
       <td>
-        Full-stack cloud storage | <!-- <a align="center" href="https://storeton.ihavenopersonal.life">👉Deployed👈</a> |--> <a align="center" href="https://github.com/SanariSan/cloud-front">front (gh actions)</a> | <a align="center" href="https://github.com/SanariSan/cloud-backend">back (gh actions)</a> | old deployment  <a align="center" href="https://github.com/SanariSan/cloud-fullstack">repo (heroku)</a> | Currently not deployed, need to fix security
+        Full-stack cloud storage | <!-- <a align="center" href="https://storeton.ihavenopersonal.life">👉Deployed👈</a> |--> <a align="center" href="https://github.com/SanariSan/cloud-front">front (gh actions)</a> | <a align="center" href="https://github.com/SanariSan/cloud-backend">back (gh actions)</a> | old deployment  <a align="center" href="https://github.com/SanariSan/cloud-fullstack">repo (heroku)</a> | Currently not deployed, need to fix security, also it's just a grad proj so it's super old
       </td>
     </tr>
     <tr>
@@ -79,11 +79,11 @@
         Control script + set of containers to rollout <a align="center" href="https://github.com/SanariSan/v2ray-ws-tls">V2Ray-tls-vmess-ws</a> on your vps (🔥 based on nginx-ssl, ez & secure proxy 🔥)
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
-        <a align="center" href="https://github.com/SanariSan/car-leasing-calc">Car leasing calc</a> front only <a align="center" href="https://sanarisan.github.io/car-leasing-calc/">👉Deployed👈</a> | (react/thunk/bootstrap)
+        <a align="center" href="https://github.com/SanariSan/car-leasing-calc">Car leasing calc</a> front only <a align="center" href="https://sanarisan.github.io/car-leasing-calc/">👉Deployed👈</a> | (react/thunk/bootstrap) | 
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <td>
         <a align="center" href="https://github.com/SanariSan/Algos">Algos</a> I've tried understanding and implementing during leetcode attempts
@@ -91,7 +91,7 @@
     </tr>
     <tr>
       <td>
-        <a align="center" href="https://github.com/SanariSan/ts-backend-v2">TS backend boilerplate</a> I've been toying with (custom pubsub/logger/cli-dashboard/...)
+        <a align="center" href="https://github.com/SanariSan/ts-backend-v2">TS backend boilerplate</a> I've been toying with a long time ago (custom pubsub/logger/cli-dashboard/...)
       </td>
     </tr>
     <tr>
