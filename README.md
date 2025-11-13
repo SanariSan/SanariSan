@@ -23,14 +23,8 @@
 <br />
 
 <div align="center">
-  <img height="220" align="center" src="https://github-readme-stats.vercel.app/api?username=sanarisan&count_private=true&include_all_commits=false&show_icons=true&theme=tokyonight" alt="SanariSan Stats (refresh page if not loaded)" />
-  <img width="240" align="center" src="https://leetcard.jacoblin.cool/SanariSan?theme=dark&font=baloo&extension=activity" alt="SanariSan LeetCode Stats (refresh page if not loaded)" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=sanarisan&count_private=true&include_all_commits=false&show_icons=true&theme=tokyonight" alt="SanariSan Stats (refresh page if not loaded)" />
 </div>
-
-<!-- <div align="center">
-<h3 align="center">Visitor counter:</h3>
-<img src="https://profile-counter.glitch.me/SanariSan/count.svg" />
-</div> -->
 
 <br />
 
@@ -45,11 +39,6 @@
     </tr>
     <tr>
       <td>
-         <a align="center" href="https://github.com/SanariSan/tech-store">Full-stack tech store</a> | <!-- <a align="center" href="https://market.ihavenopersonal.life">👉Deployed👈</a> --> Currently not deployed :( | (react/chakra/sagas/sessions/db/nginx/docker/gh_actions)</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
         Lightweight Preact, Sass, Esbuild dev env, no more 1gb <code>node_modules</code> folders 💀 | 👉 <a align="center" href="https://github.com/SanariSan/esbuild-preact">wow really let me see!</a> 
       </td>
     </tr>
@@ -59,44 +48,8 @@
       </td>
     </tr>
     <tr>
-    <!--<tr>
       <td>
-         <a align="center" href="https://github.com/SanariSan/wa-assignment">Front whatsapp-like simple chat</a> (write yourself to test) <a align="center" href="https://whatsapp.ihavenopersonal.life">👉Deployed👈</a> | (react/chakra/sagas/nginx/docker)</a>
-      </td>
-    </tr>-->
-    <tr>
-      <td>
-        Full-stack cloud storage | <!-- <a align="center" href="https://storeton.ihavenopersonal.life">👉Deployed👈</a> |--> <a align="center" href="https://github.com/SanariSan/cloud-front">front (gh actions)</a> | <a align="center" href="https://github.com/SanariSan/cloud-backend">back (gh actions)</a> | old deployment  <a align="center" href="https://github.com/SanariSan/cloud-fullstack">repo (heroku)</a> | Currently not deployed, need to fix security, also it's just a grad proj so it's super old
-      </td>
-    </tr>
-    <tr>
-      <td>
-        Control script + set of containers to setup <a align="center" href="https://github.com/SanariSan/nginx-proxy-ssl">Nginx with auto-ssl layer</a> on your vps (🔥 very handful 🔥)
-      </td>
-    </tr>
-    <tr>
-      <td>
-        Control script + set of containers to rollout <a align="center" href="https://github.com/SanariSan/v2ray-ws-tls">V2Ray-tls-vmess-ws</a> on your vps (🔥 based on nginx-ssl, ez & secure proxy 🔥)
-      </td>
-    </tr>
-    <!-- <tr>
-      <td>
-        <a align="center" href="https://github.com/SanariSan/car-leasing-calc">Car leasing calc</a> front only <a align="center" href="https://sanarisan.github.io/car-leasing-calc/">👉Deployed👈</a> | (react/thunk/bootstrap) | 
-      </td>
-    </tr> -->
-    <tr>
-      <td>
-        <a align="center" href="https://github.com/SanariSan/Algos">Algos</a> I've tried understanding and implementing during leetcode attempts
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a align="center" href="https://github.com/SanariSan/ts-backend-v2">TS backend boilerplate</a> I've been toying with a long time ago (custom pubsub/logger/cli-dashboard/...)
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a align="center" href="https://gist.github.com/SanariSan/0844c0cd009d76aefad456321e12b973">Shadowsocks heroku</a> deployment guide (rules've been made to be broken 😈)
+        My <a align="center" href="https://github.com/withastro/astro/issues/14577">Astro bundle inflation discovery</a> which saved up 25kb gzip/60kb unpacked for astro devs
       </td>
     </tr>
     <tr>
@@ -106,7 +59,32 @@
     </tr>
     <tr>
       <td>
-        <a align="center" href="https://github.com/SanariSan/node-js-async-workflow">Scheme I made</a> while learning how EventLoop and Async stuff works (looks cool, but not as useful 😜)
+        Control script + set of containers to setup <a align="center" href="https://github.com/SanariSan/nginx-proxy-ssl">Nginx with auto-ssl layer</a> on your vps (handful for manual ssl setup)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Control script + set of containers to rollout <a align="center" href="https://github.com/SanariSan/v2ray-ws-tls">V2Ray-tls-vmess-ws</a> on your vps (based on nginx-ssl, ez proxy)
+      </td>
+    </tr>
+    <tr>
+      <td>
+         <a align="center" href="https://github.com/SanariSan/tech-store">Full-stack tech store</a> | <!-- <a align="center" href="https://market.ihavenopersonal.life">👉Deployed👈</a> --> Currently not deployed | (react/chakra/sagas/sessions/db/nginx/docker/gh_actions)</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a align="center" href="https://github.com/SanariSan/Algos">Algos</a> I've tried understanding and implementing during leetcode attempts
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a align="center" href="https://gist.github.com/SanariSan/0844c0cd009d76aefad456321e12b973">Shadowsocks heroku</a> deployment guide (rules've been made to be broken 😈)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a align="center" href="https://github.com/SanariSan/node-js-async-workflow">Scheme I made</a> while learning how EventLoop and Async stuff works (looks cool, but not as useful 🤷‍♂️)
       </td>
     </tr>
     <tr>
