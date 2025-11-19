@@ -49,7 +49,7 @@
     </tr>
     <tr>
       <td>
-        My <a align="center" href="https://github.com/withastro/astro/issues/14577">Astro bundle inflation discovery</a> which saved up 25kb gzip/60kb unpacked for astro devs
+        My <a align="center" href="https://github.com/withastro/astro/issues/14577">Astro bundle inflation discovery</a> which cut 25kb gzip/60kb unpacked from client static bundle 
       </td>
     </tr>
     <tr>
