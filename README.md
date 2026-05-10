@@ -22,9 +22,9 @@
 
 <br />
 
-<div align="center">
-  <img height="200" align="center" src="https://github-readme-stats-qimolin.vercel.app/api?username=sanarisan&count_private=true&include_all_commits=false&show_icons=true&theme=tokyonight" alt="SanariSan Stats (refresh page if not loaded)" />
-</div>
+<!-- <div align="center">
+  <img height="200" align="center" src="https://github-readme-stats-qimolin.vercel.app/api?username=sanarisan&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" alt="SanariSan Stats (refresh page if not loaded)" />
+</div> -->
 
 <br />
 
