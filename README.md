@@ -16,14 +16,14 @@
 <br />
 
 <div align="center">
-  <img width="255" align="center" src="https://github-readme-stats-1-opal.vercel.app/api/wakatime?layout=compact&show_icons=true&theme=tokyonight&username=SanariSan" alt="SanariSan Wakatime Stats (refresh page if not loaded) " />
-  <img width="375" align="center" src="https://github-readme-stats-1-opal.vercel.app/api/top-langs/?username=sanarisan&layout=compact&langs_count=10&theme=tokyonight" alt="SanariSan langs (refresh page if not loaded)" />
+  <img width="255" align="center" src="https://github-readme-stats-qimolin.vercel.app/api/wakatime?layout=compact&show_icons=true&theme=tokyonight&username=SanariSan" alt="SanariSan Wakatime Stats (refresh page if not loaded) " />
+  <img width="375" align="center" src="https://github-readme-stats-qimolin.vercel.app/api/top-langs/?username=sanarisan&layout=compact&langs_count=10&theme=tokyonight" alt="SanariSan langs (refresh page if not loaded)" />
 </div>
 
 <br />
 
 <div align="center">
-  <img height="200" align="center" src="https://github-readme-stats-1-opal.vercel.app/api?username=sanarisan&count_private=true&include_all_commits=false&show_icons=true&theme=tokyonight" alt="SanariSan Stats (refresh page if not loaded)" />
+  <img height="200" align="center" src="https://github-readme-stats-qimolin.vercel.app/api?username=sanarisan&count_private=true&include_all_commits=false&show_icons=true&theme=tokyonight" alt="SanariSan Stats (refresh page if not loaded)" />
 </div>
 
 <br />
