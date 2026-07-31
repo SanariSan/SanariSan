@@ -9,15 +9,15 @@
 <div align="center">
   <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
 <!--     github-profile-trophy.vercel.app -->
-    <img src="https://trophygh.kolioaris.xyz/?username=SanariSan&theme=tokyonight&margin-w=15&margin-h=15&column=5&title=Commit,Issues,PR,Repo,Joined2020" />
+    <img src="https://github-profile-trophy-gules-three.vercel.app/?username=SanariSan&theme=tokyonight&margin-w=15&margin-h=15&column=5&title=Commit,Issues,PR,Repo,Joined2020" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img width="255" align="center" src="https://github-readme-stats-qimolin.vercel.app/api/wakatime?layout=compact&show_icons=true&theme=tokyonight&username=SanariSan" alt="SanariSan Wakatime Stats (refresh page if not loaded) " />
-  <img width="375" align="center" src="https://github-readme-stats-qimolin.vercel.app/api/top-langs/?username=sanarisan&layout=compact&langs_count=10&theme=tokyonight" alt="SanariSan langs (refresh page if not loaded)" />
+  <img width="255" align="center" src="https://github-readme-stats-pya1.vercel.app/api/wakatime?layout=compact&show_icons=true&theme=tokyonight&username=SanariSan" alt="SanariSan Wakatime Stats (refresh page if not loaded) " />
+  <img width="375" align="center" src="https://github-readme-stats-pya1.vercel.app/api/top-langs/?username=sanarisan&layout=compact&langs_count=10&theme=tokyonight" alt="SanariSan langs (refresh page if not loaded)" />
 </div>
 
 <br />
