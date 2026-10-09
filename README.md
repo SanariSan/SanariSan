@@ -113,60 +113,9 @@
 <br />
 
 <div align="center">
-  <table>
-    <tr>
-      <td colspan="3"><b>Worked with</b></td>
-    </tr>
-    <tr>
-       <td><code>JS / Node.JS / TS / HTML / CSS / SASS</code></td>
-      <td><code>React / Preact</code></td>
-      <td><code>Redux / Saga / Thunk / Jotai / Nanostores</code></td>
-    </tr>
-    <tr>
-      <td><code>Feature-Sliced Design (FSD)</code></td>
-      <td><code>Astro (SSG -> SPA)</code></td>
-      <td><code>WebPack / Esbuild / Vite</code></td>
-    </tr>
-    <tr>
-      <td><code>Bootstrap / Chakra / MUI / Radix / Shadcn</code></td>
-      <td><code>Nest / Express / Swagger / Nginx</code></td>
-      <td><code>Docker / Compose</code></td>
-    </tr>
-    <tr>
-      <td><code>PostgreSQL / MongoDB / Redis / TypeORM</code></td>
-       <td><code>Loki / Grafana / Fluentd</code></td>
-      <td><code>RabbitMQ / SQS</code></td>
-    </tr>
-    <tr>
-      <td><code>AWS (cf,ecs,asg,lb,vpc,nat,...)</code></td>
-      <td><code>adb / frida</code></td>
-      <td><code>gh pages, actions / heroku / vps deployment</code></td>
-    </tr>
-  </table>
-  
-  and some others...
-  
-  <br />
-  
-  <hr />
-  
-  <br />
-  
-  <table>
-    <tr>
-      <td colspan="3"><b>Planned</b></td>
-    </tr>
-    <tr>
-      <td><code>SSR (Astro)</code></td>
-      <td><code>Kubernetes</code></td>
-      <td><code>Proper Frontend testing</code></td>
-    </tr>
-    <tr>
-      <td><code>GraphQL (probably won't)</code></td>
-      <td><code>GO (have tried, but no usecase)</code></td>
-      <td><code>Next (can't be better than astro right ?)</code></td>
-    </tr>
-  </table>
+  <img src="assets/worked-with.svg" alt="Worked with: TypeScript, JavaScript, Java, SQL, React, Preact, Astro, Redux, Saga, Thunk, Jotai, Nanostores, HTML, CSS, Sass, Tailwind, Bootstrap, Chakra, MUI, Radix, shadcn/ui, Vite, esbuild, Webpack, Feature-Sliced Design, Node.js, NestJS, Fastify, Express, Spring Boot, Swagger, PostgreSQL, MongoDB, Redis, SQLite, TypeORM, Flyway, RabbitMQ, SQS, Docker, Compose, Kubernetes, Argo CD, GitHub Actions, AWS, Nginx, VPS, GitHub Pages, Heroku, Prometheus, Grafana, Loki, Fluentd, Puppeteer, Playwright, Camoufox, curl-impersonate, JA3/4, adb, frida" />
+  <br /><br />
+  <img src="assets/planned.svg" alt="Planned: Proper frontend testing, GraphQL, Go, Next.js" />
 </div>
 
 <br />

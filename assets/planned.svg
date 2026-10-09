@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="634" height="61" viewBox="0 0 634 61" role="img" aria-labelledby="t d">
+<title id="t">Planned</title>
+<desc id="d">Planned: Proper frontend testing, GraphQL, Go, Next.js.</desc>
+<style>
+  .ttl { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #70a5fd; }
+  .dom { font: 700 11px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #bf91f3; letter-spacing: .08em; }
+  .lbl { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #8a94c4; }
+  .nt { font: italic 400 11px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #9aa5ce; }
+  .c { fill: rgba(56, 189, 174, .08); stroke: rgba(56, 189, 174, .38); }
+  .ct { font: 400 12px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #38bdae; }
+  .cp { fill: rgba(191, 145, 243, .06); stroke: rgba(191, 145, 243, .6); stroke-dasharray: 4 3; }
+  .cpt { font: 400 12px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #bf91f3; }
+  .rule { stroke: #2b2f45; }
+  .r { animation: in .45s ease-out backwards; }
+  @keyframes in { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) { .r { animation: none; } }
+</style>
+<rect x="0.5" y="0.5" rx="4.5" width="633" height="60" fill="#1a1b27" stroke="#e4e2e2" stroke-opacity="1"/>
+<text class="ttl" x="25" y="35">Planned</text>
+<g class="r" style="animation-delay:0ms"><rect class="cp" x="215" y="21" width="179.6" height="20" rx="4"/><text class="cpt" x="222" y="35" textLength="165.6">Proper frontend testing</text></g>
+<g class="r" style="animation-delay:35ms"><rect class="cp" x="400.6" y="21" width="64.4" height="20" rx="4"/><text class="cpt" x="407.6" y="35" textLength="50.4">GraphQL</text></g>
+<g class="r" style="animation-delay:70ms"><rect class="cp" x="471" y="21" width="28.4" height="20" rx="4"/><text class="cpt" x="478" y="35" textLength="14.4">Go</text></g>
+<g class="r" style="animation-delay:105ms"><rect class="cp" x="505.4" y="21" width="64.4" height="20" rx="4"/><text class="cpt" x="512.4" y="35" textLength="50.4">Next.js</text></g>
+</svg>
