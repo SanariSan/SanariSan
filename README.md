@@ -33,6 +33,29 @@
 <br />
 
 <div align="center">
+  <img src="assets/worked-with.svg" alt="Worked with: TypeScript, JavaScript, Java, SQL, React, Preact, Astro, Redux, Saga, Thunk, Jotai, Nanostores, HTML, CSS, Sass, Tailwind, Bootstrap, Chakra, MUI, Radix, shadcn/ui, Vite, esbuild, Webpack, Feature-Sliced Design, Node.js, NestJS, Fastify, Express, Spring Boot, Swagger, PostgreSQL, MongoDB, Redis, SQLite, TypeORM, Flyway, RabbitMQ, SQS, Docker, Compose, Kubernetes, Argo CD, GitHub Actions, AWS, Nginx, VPS, GitHub Pages, Heroku, Prometheus, Grafana, Loki, Fluentd, Puppeteer, Playwright, Camoufox, curl-impersonate, JA3/4, adb, frida" />
+  <br /><br />
+  <img src="assets/planned.svg" alt="Planned: Proper frontend testing, GraphQL, Go, Next.js" />
+</div>
+
+<br />
+
+<hr />
+
+<div align="center">
+<h3 align="center">Rip <a href="https://x.com/cloud11665/status/1799136093071163396">css xss</a> 08.06.24</h2>
+<h3 align="center">GH please add customization!</h2>
+<br>
+<img align="center" src="https://raw.githubusercontent.com/SanariSan/_/master/rip.gif" width="800" height="449.75" />
+</div>
+
+<br />
+
+<hr />
+
+<br />
+
+<div align="center">
   <table>
     <tr>
       <td><b>Highlights</b></td>
@@ -93,29 +116,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-<br />
-
-<hr />
-
-<div align="center">
-<h3 align="center">Rip <a href="https://x.com/cloud11665/status/1799136093071163396">css xss</a> 08.06.24</h2>
-<h3 align="center">GH please add customization!</h2>
-<br>
-<img align="center" src="https://raw.githubusercontent.com/SanariSan/_/master/rip.gif" width="800" height="449.75" />
-</div>
-
-<br />
-
-<hr />
-
-<br />
-
-<div align="center">
-  <img src="assets/worked-with.svg" alt="Worked with: TypeScript, JavaScript, Java, SQL, React, Preact, Astro, Redux, Saga, Thunk, Jotai, Nanostores, HTML, CSS, Sass, Tailwind, Bootstrap, Chakra, MUI, Radix, shadcn/ui, Vite, esbuild, Webpack, Feature-Sliced Design, Node.js, NestJS, Fastify, Express, Spring Boot, Swagger, PostgreSQL, MongoDB, Redis, SQLite, TypeORM, Flyway, RabbitMQ, SQS, Docker, Compose, Kubernetes, Argo CD, GitHub Actions, AWS, Nginx, VPS, GitHub Pages, Heroku, Prometheus, Grafana, Loki, Fluentd, Puppeteer, Playwright, Camoufox, curl-impersonate, JA3/4, adb, frida" />
-  <br /><br />
-  <img src="assets/planned.svg" alt="Planned: Proper frontend testing, GraphQL, Go, Next.js" />
 </div>
 
 <br />
