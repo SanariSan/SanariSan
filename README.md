@@ -9,7 +9,7 @@
 <div align="center">
   <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
 <!--     github-profile-trophy.vercel.app -->
-    <img src="https://github-profile-trophy-gules-three.vercel.app/?username=SanariSan&theme=tokyonight&margin-w=15&margin-h=15&column=5&title=Commit,Issues,PR,Repo,Joined2020" />
+    <img src="https://github-trophies.devomb.com/?username=SanariSan&theme=tokyonight&margin-w=15&margin-h=15&column=5&title=Commit,Issues,PR,Repo,Joined2020" />
   </a>
 </div>
 
